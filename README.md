@@ -27,6 +27,12 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
+--> Meu CodePen:
+<p align="center">
+   <a href="https://codepen.io/AnaPaulaSM/pens/public">
+   ![CodePen](codepen-wordmark-display-inside-black@10x.png)
+   </a>
+ </p>
 --> Meus contatos:
 
 <p align="center">
