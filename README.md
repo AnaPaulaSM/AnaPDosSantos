@@ -27,7 +27,7 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
---> Meu CodePen, contém os projetos da Imersão Dev da Alura:
+--> Meu CodePen contém os projetos da Imersão Dev da Alura:
 <p align="center">
    <a href="https://codepen.io/collection/WvrVwG"> --> ACESSAR CODEPEN <--</a>
  </p>
