@@ -27,7 +27,7 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
---> Meu CodePen:
+--> Meu CodePen, contém os projetos da Imersão Dev da Alura:
 <p align="center">
    <a href="https://codepen.io/AnaPaulaSM/pens/public"> --> ACESSAR CODEPEN <--</a>
  </p>
