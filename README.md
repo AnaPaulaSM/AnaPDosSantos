@@ -29,8 +29,7 @@
 
 --> Meu CodePen:
 <p align="center">
-   <a href="https://codepen.io/AnaPaulaSM/pens/public">![CodePen](codepen-wordmark-display-inside-black@10x.png)
-   </a>
+   <a href="https://codepen.io/AnaPaulaSM/pens/public"> --> CODEPEN <--</a>
  </p>
  
   
