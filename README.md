@@ -29,7 +29,7 @@
 
 --> Meu CodePen:
 <p align="center">
-   <a href="https://codepen.io/AnaPaulaSM/pens/public"> --> CODEPEN <--</a>
+   <a href="https://codepen.io/AnaPaulaSM/pens/public"> --> ACESSAR CODEPEN <--</a>
  </p>
  
   
