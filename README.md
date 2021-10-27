@@ -8,7 +8,7 @@
 <p> - 🔭 Sou Suporte N3 na PHI - Fintec As a Service. </p>
 <p> - 👨‍🎓 Formada em Análise e Desenvolvimento de Sistemas pela Uniasselvi, atualmente estou fazendo curso de Node.JS. </p>
 <p> - 🎯 Tenho interesse em: Java, Spring Boot, API , HTML, CSS, JavaScript. </p>
-<p> - ⚡ Nunca me perguntaram o que eu queria ser! Meus pais sempre quiseram que eu fosse da área da saúde, mas eu AMO Tecnologia! É sobre isso e tá tudo bem! kkkk </p>
+<p> - ⚡ Durante a adolescência meus pais não me perguntaram o que eu queria ser. Eles queriam que eu trabalhasse na área da saúde, mas eu sempre AMEI Tecnologia! Então procurei me desenvolver nessa área. É sobre isso e tá tudo bem! </p>
 <p> - 💬 Gosto de escrever nas horas vagas, inclusive já publiquei um livro através de uma editora independete do RJ. </p>
   
 </div>
