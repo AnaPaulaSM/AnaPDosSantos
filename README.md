@@ -32,6 +32,10 @@
    <a href="https://codepen.io/collection/WvrVwG"> --> ACESSAR CODEPEN <--</a>
  </p>
  
+ --> Meu Blog:
+<p align="center">
+   <a href="https://anapaulasm.github.io/"> --> ACESSAR MEUS POSTS <--</a>
+ </p>
   
 --> Meus contatos:
 
