@@ -1,13 +1,13 @@
    <h2>Oi, meu nome é Ana! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-✨ Tenho 37 anos e migrei de carreira pra TI há 6 meses.✨
+✨ Tenho 38 anos e migrei de carreira pra TI há algum tempo.✨
 
 
 <div style="display: inline_block"  >
 <p> - 🔭 Sou Analista de Sistemas. </p>
 <p> - 👨‍🎓 Formada em Análise e Desenvolvimento de Sistemas pela Uniasselvi, atualmente estou fazendo curso de Node.JS. </p>
-<p> - 🎯 Tenho interesse em: JavaScript, API ( Integrações ), Java. </p>
+<p> - 🎯 Tenho interesse em: API ( Integrações ) e Java. </p>
 <p> - ⚡ Durante a adolescência meus pais não me perguntaram o que eu queria ser. Eles queriam que eu trabalhasse na área da saúde, mas eu sempre AMEI Tecnologia! Então procurei me desenvolver nessa área. É sobre isso e tá tudo bem! </p>
 <p> - 💬 Gosto de escrever nas horas vagas, inclusive já publiquei um livro através de uma editora independete do RJ. </p>
   
