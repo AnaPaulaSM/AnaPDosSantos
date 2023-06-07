@@ -1,30 +1,26 @@
-   <h2>Oi, meu nome é Ana! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-
-✨ Tenho 38 anos e migrei de carreira pra TI há algum tempo.✨
-
-
+ <h2>Oi, meu nome é Ana! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+✨ Nasci em Julho de 84 e migrei de carreira pra TI em Maio de 2021.✨
 <div style="display: inline_block"  >
-<p> - 🔭 Sou Analista de Sistemas. </p>
-<p> - 👨‍🎓 Formada em Análise e Desenvolvimento de Sistemas pela Uniasselvi, atualmente estou fazendo curso de Node.JS. </p>
-<p> - 🎯 Tenho interesse em: API ( Integrações ) e Java. </p>
-<p> - ⚡ Durante a adolescência meus pais não me perguntaram o que eu queria ser. Eles queriam que eu trabalhasse na área da saúde, mas eu sempre AMEI Tecnologia! Então procurei me desenvolver nessa área. É sobre isso e tá tudo bem! </p>
+<p> - 👨‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas. </p>
+<p> - 🎯 Tenho interesse em: desenvolvimento backend. </p>
 <p> - 💬 Gosto de escrever nas horas vagas, inclusive já publiquei um livro através de uma editora independete do RJ. </p>
   
 </div>
 
 --> Minhas skills:
 <div align="center">
+    <img height="40" src="https://assets.zabbix.com/img/brands/nodejs.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
+ 
 --> Meu CodePen contém os projetos da Imersão Dev da Alura:
 <p align="center">
    <a href="https://codepen.io/collection/WvrVwG"> --> ACESSAR CODEPEN <--</a>
